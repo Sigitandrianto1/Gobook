@@ -119,7 +119,7 @@ main .background-page {
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
-    background-image: url(img/background.jpg);
+    background-image: url(../img/background.jpg);
     margin-inline: auto;
     display: flex;
     flex: 1;
